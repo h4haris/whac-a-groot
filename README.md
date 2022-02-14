@@ -3,6 +3,8 @@ Whac-a-Groot is Grid-based game based on whac-a-mole concept built in vanilla Ja
 
 The idea is simple! The player needs to hit the grid with the mole in as many times as possible until the time runs out.
 
+See Live [here](https://h4haris.github.io/whac-a-groot) 
+
 ![demo](images/screen.JPG)
 
 ### Reference
